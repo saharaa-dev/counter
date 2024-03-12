@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+}
+
+
+/** h1 **/
+body h1 {
+    font-size: 80px;
+    color: aliceblue;
+}
+
+body h1:hover {
+    color: black;
+}
+
+/* h2 */
+
+body h2 {
+    font-size: 100px;
+    margin-top: 5px;
+    color: white;
+}
+
+
+button {
+    width: 90px;
+    height: 30px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
